@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Komborero Chiweshe @01-drkontrics
+- 👋 Hi, I’m Komborero Chiweshe @dr-kontrics
 - 👀 I’m interested in Cybersecurity, Software Development, and Forex Market Analysis/Trading
 - 🌱 I’m currently learning Laravel, Vue.js, NodeJS & ReactJS, Flutter, Kotlin, and UI & UX design
 - 💞️ I’m looking to collaborate on all of the above mentioned areas, I'm a Trend Micro certified partner in Advanced user protection, Cisco certified Cybersecurity Associate
